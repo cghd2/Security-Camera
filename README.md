@@ -4,9 +4,6 @@ Welcome to the Security Camera System project! Built using an NVIDIA Jetson Orin
 
 This project was built to address real-world safety concerns by bringing proactive monitoring to spaces like classrooms, hallways, and private spaces. With a focus on situational awareness and user responsibility, this tool provides a practical, automated approach to safety—embracing a "better safe than sorry" mindset.
 
-Demo & Previews
-YouTube Demonstration: Watch the Project Demo
-
 Visuals
 How It Works
 This project is built using Python inside Visual Studio Code and leverages deep learning models provided by NVIDIA's jetson-inference library:
