@@ -100,3 +100,7 @@ https://www.youtube.com/watch?v=RSswoXz1cLM
 
 
 **Screenshots**
+
+<img width="818" height="745" alt="Screenshot 2026-08-13 102132" src="https://github.com/user-attachments/assets/1746f4b1-161b-411d-875b-f22db36a94c4" />
+<img width="525" height="66" alt="Screenshot 2026-08-13 102042" src="https://github.com/user-attachments/assets/bb43e8f3-25cc-4bf6-be9c-b00e029dc8ac" />
+
