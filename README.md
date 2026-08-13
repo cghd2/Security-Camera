@@ -9,6 +9,11 @@ https://www.youtube.com/watch?v=RSswoXz1cLM
 
 Screenshots
 
+
+<img width="525" height="66" alt="Screenshot 2026-08-13 102042" src="https://github.com/user-attachments/assets/ec1f92e1-f04e-4eaf-a4da-ba95d89d5bb9" />
+<img width="818" height="745" alt="Screenshot 2026-08-13 102132" src="https://github.com/user-attachments/assets/e99446c8-c931-4750-b795-043f33812a9d" />
+
+
 How I made this
 
 Installation
