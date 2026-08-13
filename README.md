@@ -5,6 +5,8 @@ This project is meant to detect faces and real individuals using a webcam connec
 
 YouTube Demo
 
+https://www.youtube.com/watch?v=RSswoXz1cLM
+
 Screenshots
 
 How I made this
